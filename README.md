@@ -1,1 +1,1 @@
-# deskew
+ I would like to share with you a simple solution to image deskewing problem (straightening a rotated image). If you’re working on anything that has text extraction from images — you will have to deal with image deskewing in one form or another. From camera pictures to scanned documents — deskewing is a mandatory step in image pre-processing before feeding the cleaned-up image to an OCR tool
